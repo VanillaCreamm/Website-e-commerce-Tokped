@@ -1,0 +1,37 @@
+*{
+	
+}
+
+body {
+	padding-top: 200px;
+	justify-content: center;
+	background-image: url('../img/Login-Wall.jpg');
+	background-size: cover;
+	text-align: center;
+}
+
+form{
+	margin: auto;
+	display: inline-block;
+}
+
+input{
+	border-radius: 5px;
+	border: 1px solid rgba(0,0,0,.125);
+	margin-bottom: 10px;
+}
+
+.container{
+	padding-top: 20px;
+	margin: 0 auto;
+	background-color: #141414;
+	border-radius: 25px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	background-color: rgba(0,0,0,.125);
+	padding: 40px;
+	border-radius: 20px;
+}
+
+.btn{
+	background-color: #1eafed;
+}
